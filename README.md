@@ -1,8 +1,11 @@
 # cautious
 
-[help] (www.tensorflow.org)
+[help](http://www.tensorflow.org)
 
 
-[picture] (cautious/imagetech.jpg)
+[picture](https://github.com/powermano/cautious/blob/master/imagetech.jpg?raw=true)
 
 # note1
+# 1: first
+
+# 2: second
