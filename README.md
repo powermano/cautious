@@ -5,6 +5,7 @@
 
 [picture] 
 # note1
-# 1: first(https://github.com/powermano/cautious/blob/master/imagetech.jpg?raw=true)
+# 1: first
+   ![picture](https://github.com/powermano/cautious/blob/master/imagetech.jpg?raw=true)
 
 # 2: second
